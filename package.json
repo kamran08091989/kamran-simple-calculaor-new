@@ -1,0 +1,19 @@
+{
+  "name": "kamran-simple-calculator",
+  "version": "1.0.1",
+  "description": "prepare a simple calculator with typescript , node and inquirer",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "m kamran",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.18"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
